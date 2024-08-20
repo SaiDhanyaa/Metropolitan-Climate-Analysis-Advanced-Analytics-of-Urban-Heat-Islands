@@ -1,5 +1,5 @@
 
-## Metropolitan Climate Profiling: Advanced Analytics of Urban Heat Islands
+## Metropolitan Climate Analysis: Advanced Analytics of Urban Heat Islands
 
 ![UHI Title](./images/UHI_Title.png)
 
