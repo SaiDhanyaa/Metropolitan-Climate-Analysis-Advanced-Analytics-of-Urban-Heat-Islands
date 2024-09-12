@@ -1,5 +1,5 @@
 
-## Metropolitan Climate Analysis: Advanced Analytics of Urban Heat Islands
+## Spatiotemporal Climate Analysis: Advanced Analytics of Urban Heat Islands
 
 ![UHI Title](./images/UHI_Title.png)
 
